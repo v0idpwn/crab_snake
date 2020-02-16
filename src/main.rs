@@ -8,7 +8,6 @@ use rand::Rng;
 
 mod coordinates;
 mod block;
-mod grid;
 mod map;
 mod snake;
 mod direction;
